@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/qvLqYNTm/Screenshot-2026-01-21-14-08-17-839-com-termux.png" width="600"/>
 </p>
 
-<h1 align="center"> Ddos404 Tool</h1>
+<h1 align="center"> DdOs404 Tool</h1>
 
 <p align="center">
   🚀 Powered by <b> R.K.A. </b><br>
@@ -12,8 +12,8 @@
 
 ---
 
-⚠️ **Disclaimer**: This tool is for **educational and research purposes only**.  
-The authors take no responsibility for misuse.  
+⚠️ **Disclaimer**:This tool is for **educational and research purposes only**. DdOs404 is a powerful attacker tool so,
+the authors take no responsibility for misuse.  
 
 ---
 <h1 align="center"> DEVELOPER INFO </h1>
@@ -46,9 +46,9 @@ pkg install toilet -y
 pkg install figlet toilet -y
 pkg install figlet -y
 pkg install dnsutils -y
-apt update && upgrade
+apt update && apt upgrade -y
 apt install git python2
-git clone https://github.com/RKA-999/Ddos404.git
+git clone https://github.com/RKA-999/DdOs404.git
 cd Ddos404
 sh ddos.sh
 ```
