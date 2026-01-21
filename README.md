@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/FF6y71Ds/python.jpg" width="600"/>
+  <img src="https://i.postimg.cc/qvLqYNTm/Screenshot-2026-01-21-14-08-17-839-com-termux.png" width="600"/>
 </p>
 
 <h1 align="center"> Ddos404 Tool</h1>
@@ -39,7 +39,7 @@ The authors take no responsibility for misuse.
 <h1 align="center"> Installing info </h1>
 
 
-## 🛠️ Installation for Termux
+##<b align="center">🛠️ Installation & ⚙️ Setup for Termux</b>
 ```bash
 pkg update && pkg upgrade -y
 pkg install toilet -y
@@ -50,42 +50,11 @@ apt update && upgrade
 apt install git python2
 git clone https://github.com/CyberMrlink/Ddos404
 cd Ddos404
-ls
 sh ddos.sh
 ```
-## <b align="center">⚙️ Setup</b> ->
-Termux
-```
 
-bash
-python3 setup.py
-```
+## 📜 License
+
+MIT License @ copyright 2026
 
 ---
-
-## ▶️ Usage
-   *PYTHON language  launcher*
-```bash
-python3 doom-cannon.py
-```
-   *GO language launcher*
-```bash
-go run doom-cannon.go
-```
-   *SHELL language launcher*
-```bash
-bash doom-cannon.sh
-```    
-You will see a CLI menu with available modules.
-Select an option (e.g., `01/A` for ORBIT Attack) and follow the prompts.
-
----
-<h1 align="center"> Tool Login Info </h1>
-
-## TOOL USERNAME 
-```bash
-*as you wish* user name is not fix use random name.
-```
-## TOOL PASSWOED 
-```bash
-DOOM CANNON@TEAM BCS
